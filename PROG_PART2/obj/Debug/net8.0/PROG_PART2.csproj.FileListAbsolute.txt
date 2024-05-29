@@ -1,0 +1,14 @@
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\bin\Debug\net8.0\PROG_PART2.exe
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\bin\Debug\net8.0\PROG_PART2.deps.json
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\bin\Debug\net8.0\PROG_PART2.runtimeconfig.json
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\bin\Debug\net8.0\PROG_PART2.dll
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\bin\Debug\net8.0\PROG_PART2.pdb
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.AssemblyInfoInputs.cache
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.AssemblyInfo.cs
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.csproj.CoreCompileInputs.cache
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.dll
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\refint\PROG_PART2.dll
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.pdb
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\PROG_PART2.genruntimeconfig.cache
+C:\Users\uvaan\source\repos\PROG_PART2\PROG_PART2\obj\Debug\net8.0\ref\PROG_PART2.dll
